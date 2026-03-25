@@ -5,7 +5,7 @@ pipeline {
 
         stage('Clone Code') {
             steps {
-                git 'https://github.com/YOUR_REPO/calculator-app.git'
+                git 'https://github.com/Akshitha-1612-hub/calculator.git'
             }
         }
 
